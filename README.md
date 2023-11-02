@@ -3,7 +3,7 @@
 
 Een praatplaat over mijn ontwikkeling, en toekomstbeeld als frontender.
 
-![loopboom ontwikkeling](https://github.com/Demivdm/choices-choices-schets-je-ontwikkeling-deeltaak/assets/112861166/2d1a2aa4-5538-4698-be09-76a00198d4fa)
+![loopboom ontwikkeling](https://github.com/Demivdm/choices-choices-schets-je-ontwikkeling-deeltaak/wiki)
 
 Benieuwd hoe deze boom tot stand is gekomen? Klik dan hier []()
 ## Instructies
