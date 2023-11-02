@@ -3,9 +3,9 @@
 
 Een praatplaat over mijn ontwikkeling, en toekomstbeeld als frontender.
 
-![loopboom ontwikkeling](https://github.com/Demivdm/choices-choices-schets-je-ontwikkeling-deeltaak/wiki)
+![loopboom ontwikkeling](https://github.com/Demivdm/choices-choices-schets-je-ontwikkeling-deeltaak/assets/112861166/2d1a2aa4-5538-4698-be09-76a00198d4fa)
 
-Benieuwd hoe deze boom tot stand is gekomen? Klik dan hier []()
+Benieuwd hoe deze boom tot stand is gekomen? Klik dan [hier](https://github.com/Demivdm/choices-choices-schets-je-ontwikkeling-deeltaak/wiki)
 ## Instructies
 
 klik [hier](docs/INSTRUCTIONS.md) voor de link naar de instructies
